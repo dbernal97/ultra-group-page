@@ -1,8 +1,8 @@
-# React + Vite
+# Ultra Group Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Created with React, this is a hotel and tourism application allowing both 
+users and travel agents to perform various actions
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+_________________
+Created by Daniel Andres Bernal Valencia
